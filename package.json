@@ -1,0 +1,33 @@
+{
+  "name": "laborevoluptas",
+  "description": "A JavaScript Template Engine Most Like Smarty",
+  "version": "1.0.0",
+  "keywords": [
+    "smarty",
+    "smartyjs",
+    "template",
+    "tpl",
+    "quas",
+    "smarty.js",
+    "tempora",
+    "parser",
+    "est",
+    "smarty compiler",
+    "at"
+  ],
+  "bugs": {
+    "url": "https://github.com/VallieRunte/laborevoluptas.git/issues"
+  },
+  "bin": {
+    "smarty4js": "./bin/smarty4js-cli"
+  },
+  "main": "index",
+  "devDependencies": {
+    "jison": "~0.4.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VallieRunte/laborevoluptas.git"
+  },
+  "author": "AngieBayer"
+}
